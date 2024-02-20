@@ -1,0 +1,3 @@
+﻿  game.c
+C:\Users\OMEN\Desktop\Bowling_Game_Repos\Bowling_Game\Bowling_Game\game.c(8,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bowling_Game.vcxproj -> C:\Users\OMEN\Desktop\Bowling_Game_Repos\Bowling_Game\Debug\Bowling_Game.exe
